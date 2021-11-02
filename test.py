@@ -1,1 +1,7 @@
+
+mfdslkgas
+
+
+
 mammad = 10
+
